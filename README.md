@@ -25,3 +25,9 @@ Deactivate `venv` environment:
 ```bash
 deactivate
 ```
+
+#### How to run the application
+
+```bash
+python3 snakes_cafe.py 
+```
